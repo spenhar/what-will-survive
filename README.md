@@ -1,1 +1,1 @@
-# what-will-survive
+# What Will Survive Helix project
